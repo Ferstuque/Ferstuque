@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi there, here is Fernando. 👋
 
-Here is Fernando.
 
 🔭 I'm currently leading global Data Projects at Nestlé, the world's largest food and beverage company.
+
 🌱 I'm also deeply engaged in learning Data Science, Machine Learning, and Artificial Intelligence Technologies.
+
 
 Here are some of my projects:
 
