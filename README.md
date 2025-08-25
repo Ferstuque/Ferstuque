@@ -6,7 +6,7 @@
 
 Here are some of my projects:
 
-🩺**[SkinCancerAnalysis](https://github.com/Ferstuque/skin_cancer_analysis)**: An AI-powered system for skin lesion analysis and classification.
+🩺 **[SkinCancerAnalysis](https://github.com/Ferstuque/skin_cancer_analysis)**: An AI-powered system for skin lesion analysis and classification.
 
 🧠 **[DeepLearning](https://github.com/Ferstuque/DeepLearning)**: Dive into the world of AI with diverse projects and tools for data science, machine learning, and artificial intelligence.
 
