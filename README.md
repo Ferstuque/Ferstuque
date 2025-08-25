@@ -6,6 +6,8 @@
 
 Here are some of my projects:
 
+🩺**[SkinCancerAnalysis](https://github.com/Ferstuque/skin_cancer_analysis)**: An AI-powered system for skin lesion analysis and classification.
+
 🧠 **[DeepLearning](https://github.com/Ferstuque/DeepLearning)**: Dive into the world of AI with diverse projects and tools for data science, machine learning, and artificial intelligence.
 
 🗣️ **[AI\_and\_data](https://github.com/Ferstuque/AI_and_data)**: Explore practical Notebooks explaining examples of using Pre-trained LLM AI models, NLP for data treatment, and fine-tuning models for datasets from the HuggingFace community.
