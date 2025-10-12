@@ -6,20 +6,22 @@
 
 Here are some of my projects:
 
+🚚 **[Medical Route Optimizer](https://github.com/Ferstuque/genetic_algorithm_tsp)**: A full-stack application that uses a Genetic Algorithm to solve the "Medical TSP" (Traveling Salesperson Problem), optimizing delivery routes for a mixed fleet (van + drone). Integrated with Google Gemini AI to generate operational reports and provide a natural language Q&A interface.
+
 🩺 **[SkinCancerAnalysis](https://github.com/Ferstuque/skin_cancer_analysis)**: An AI-powered system for skin lesion analysis and classification.
 
 🧠 **[DeepLearning](https://github.com/Ferstuque/DeepLearning)**: Dive into the world of AI with diverse projects and tools for data science, machine learning, and artificial intelligence.
 
-🗣️ **[AI\_and\_data](https://github.com/Ferstuque/AI_and_data)**: Explore practical Notebooks explaining examples of using Pre-trained LLM AI models, NLP for data treatment, and fine-tuning models for datasets from the HuggingFace community.
+🗣️ **[AI_and_data](https://github.com/Ferstuque/AI_and_data)**: Explore practical Notebooks explaining examples of using Pre-trained LLM AI models, NLP for data treatment, and fine-tuning models for datasets from the HuggingFace community.
 
 🎙️ **[VoiceControl](https://github.com/Ferstuque/VoiceControl)**: Explore the power of voice with projects on text-to-audio, audio-to-text, voice interpretation, and translation.
 
-📄 **[AWS\_Textract](https://github.com/Ferstuque/AWS_Textract)**: Unlock the potential of AI text extraction using Amazon Web Services.
+📄 **[AWS_Textract](https://github.com/Ferstuque/AWS_Textract)**: Unlock the potential of AI text extraction using Amazon Web Services.
 
-🖼️ **[AWS\_Rekognition](https://github.com/Ferstuque/AWS_Rekognition)**: Master AI image recognition and classification with Amazon Web Services.
+🖼️ **[AWS_Rekognition](https://github.com/Ferstuque/AWS_Rekognition)**: Master AI image recognition and classification with Amazon Web Services.
 
 ☁️ **[AzureOpenAI](https://github.com/Ferstuque/AzureOpenAI)**: Discover the latest AI topics, tips, and code examples with Microsoft Azure OpenAI.
 
-And many more exciting projects to explore and upcoming developments\! ✨
+And many more exciting projects to explore and upcoming developments! ✨
 
-Feel free to access and use these projects as inspiration. Enjoy and happy learning\!
+Feel free to access and use these projects as inspiration. Enjoy and happy learning!
