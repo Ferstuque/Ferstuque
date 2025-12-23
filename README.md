@@ -6,6 +6,8 @@
 
 Here are some of my projects:
 
+🩺 **[Virtual Medical Assistant](https://github.com/Ferstuque/AssistenteVirtualMedico)**:  A generative AI-powered virtual medical assistant that uses fine-tuned Llama 3 models, retrieval-augmented generation (RAG), multi-agent orchestration, and safety guardrails to provide reliable domain-specific medical information and assist with clinical queries.
+
 🚚 **[Medical Route Optimizer](https://github.com/Ferstuque/genetic_algorithm_tsp)**: A full-stack application that uses a Genetic Algorithm to solve the "Medical TSP" (Traveling Salesperson Problem), optimizing delivery routes for a mixed fleet (van + drone). Integrated with Google Gemini AI to generate operational reports and provide a natural language Q&A interface.
 
 🩺 **[SkinCancerAnalysis](https://github.com/Ferstuque/skin_cancer_analysis)**: An AI-powered system for skin lesion analysis and classification.
