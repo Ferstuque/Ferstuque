@@ -1,10 +1,14 @@
 ## Hi there, here is Fernando. 👋
 
-🔭 I'm an AI Engineer currently leading global Data Projects in the world's largest food and beverage company.
+🔭 I'm a Technical Specialist - Data & AI Consultant at Avanade, providing consulting services for Microsoft across the global market.
 
 🌱 I'm also deeply engaged in improving my skills on Artificial Intelligence Technologies, Data Science, and Machine Learning.
 
 Here are some of my projects:
+
+### 📐 Systems & Architecture Analysis
+
+🏗️ **[Architecture AI Analyzer](https://github.com/Ferstuque/Hackathon-FIAP)**: An automated tool that leverages Multimodal AI (Vision + Language) to process distributed system architecture diagrams in seconds. It replaces manual, unscalable reviews by instantly detecting vulnerabilities and single points of failure, outputting structured technical reports on components, risks, and actionable recommendations.
 
 ### 🏥 Medical & Healthcare AI
 
